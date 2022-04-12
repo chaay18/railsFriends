@@ -7,7 +7,7 @@ application up and running.
 
 * Ruby version : ruby '2.7.3'
 
-* System dependencies
+* live website link: https://friends-list-2.herokuapp.com
 
 * Configuration
 
